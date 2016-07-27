@@ -11,8 +11,8 @@
       <longclick id="1">ContextMenu</longclick>
       <wheelup>wheelup</wheelup>
       <wheeldown>wheeldown</wheeldown>
-      <doubleclick>doubleclick</doubleclick>
-      <mousedrag>mousedrag</mousedrag>
+      <doubleclick>Select</doubleclick>
+      <mousedrag>noop</mousedrag>
       <mousemove>mousemove</mousemove>
     </mouse>
   </global>
@@ -35,6 +35,7 @@
     <mouse>
       <wheeldown>volumeDown</wheeldown>
       <wheelup>volumeUp</wheelup>
+      <mousedrag>mousedrag</mousedrag>
       <rightclick>Pause</rightclick>
       <longclick id="0">OSD</longclick>
       <longclick id="1">Stop</longclick>
@@ -48,5 +49,10 @@
       <wheeldown>NextPicture</wheeldown>
     </mouse>
   </SlideShow>
+  <PlexSearch>
+    <mouse>
+      <rightclick>PreviousMenu</rightclick>
+    </mouse>
+  </PlexSearch>
 </keymap>
 
