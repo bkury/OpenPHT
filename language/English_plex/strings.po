@@ -1024,6 +1024,10 @@ msgctxt "#52212"
 msgid "Show watched in recently added"
 msgstr "Show watched in recently added"
 
+msgctxt "#52217"
+msgid "Stack TV Shows in recently added"
+msgstr "Stack TV Shows in recently added"
+
 msgctxt "#52213"
 msgid "Hide channels in menu"
 msgstr "Hide channels in menu"
